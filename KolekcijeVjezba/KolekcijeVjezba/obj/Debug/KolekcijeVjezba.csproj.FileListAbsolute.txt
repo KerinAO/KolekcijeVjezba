@@ -1,0 +1,11 @@
+C:\Users\Ramseeys\source\repos\KolekcijeVjezba\KolekcijeVjezba\bin\Debug\KolekcijeVjezba.exe.config
+C:\Users\Ramseeys\source\repos\KolekcijeVjezba\KolekcijeVjezba\bin\Debug\KolekcijeVjezba.exe
+C:\Users\Ramseeys\source\repos\KolekcijeVjezba\KolekcijeVjezba\bin\Debug\KolekcijeVjezba.pdb
+C:\Users\Ramseeys\source\repos\KolekcijeVjezba\KolekcijeVjezba\obj\Debug\KolekcijeVjezba.csproj.AssemblyReference.cache
+C:\Users\Ramseeys\source\repos\KolekcijeVjezba\KolekcijeVjezba\obj\Debug\KolekcijeVjezba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramseeys\source\repos\KolekcijeVjezba\KolekcijeVjezba\obj\Debug\KolekcijeVjezba.Form1.resources
+C:\Users\Ramseeys\source\repos\KolekcijeVjezba\KolekcijeVjezba\obj\Debug\KolekcijeVjezba.Properties.Resources.resources
+C:\Users\Ramseeys\source\repos\KolekcijeVjezba\KolekcijeVjezba\obj\Debug\KolekcijeVjezba.csproj.GenerateResource.cache
+C:\Users\Ramseeys\source\repos\KolekcijeVjezba\KolekcijeVjezba\obj\Debug\KolekcijeVjezba.csproj.CoreCompileInputs.cache
+C:\Users\Ramseeys\source\repos\KolekcijeVjezba\KolekcijeVjezba\obj\Debug\KolekcijeVjezba.exe
+C:\Users\Ramseeys\source\repos\KolekcijeVjezba\KolekcijeVjezba\obj\Debug\KolekcijeVjezba.pdb
